@@ -10,3 +10,5 @@ node_modules/
 
 # other
 .vscode
+package-lock.json
+package.json
